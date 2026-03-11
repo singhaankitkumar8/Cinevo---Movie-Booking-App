@@ -7,12 +7,6 @@
 
 <br />
 
-## 🎦 LIVE - DEMO 🌐
-  
-**UI** 👉 [LINK](https://quickshow-sigma-roan.vercel.app/)
-
-![alt text](screencapture-quickshow-sigma-roan-vercel-app-2025-07-04-07_02_38.png)
-
 <br /><hr /><br />
 
 **Admin Dashboard** 👉 [LINK](https://quickshow-sigma-roan.vercel.app/admin)
