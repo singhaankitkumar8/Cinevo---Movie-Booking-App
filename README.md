@@ -9,7 +9,7 @@
 
 <br /><hr /><br />
 
-**Admin Dashboard** 👉 [LINK](https://quickshow-sigma-roan.vercel.app/admin)
+**Admin Dashboard**
 
 ![alt text](screencapture-quickshow-sigma-roan-vercel-app-admin-2025-07-04-07_02_14.png)
 
