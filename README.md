@@ -304,33 +304,6 @@ vercel --prod
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/elyse502/QuickShow/blob/main/LICENSE) file for details.
-
----
-
-## Support
-
-For support, email elyseniyibizi502@gmail.com or create an issue in the GitHub repository.
-
----
-
-## 📞 Contact
-For any questions or support, please contact:
-- [**NIYIBIZI Elysée**](https://linktr.ee/niyibizi_elysee)👨🏿‍💻 | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse).
-- **Email**: <elyseniyibizi502@gmail.com>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) [![@phenrysay](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niyibizi_Elyse) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502)
-
----
-
-<div align="center">
-
-**Made with ❤️ by <i>[Elysée NIYIBIZI](https://elyse502.github.io/Elysee-Portfolio/)</i>**
-
-[⬆ Back to Top](#table-of-contents)
-
-</div>
 
 
