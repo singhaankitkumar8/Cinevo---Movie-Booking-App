@@ -1,6 +1,6 @@
 <div align="center">
 
-# CineX 🎬🍿🎥
+# Cinevo 🎬🍿🎥
 
 *Seamless Video Discovery. Effortless Entertainment Experience*
 
@@ -36,7 +36,7 @@
 
 ## Overview
 
-**QuickShow** is a modern, full-stack movie ticket booking application built with the MERN stack. It provides users with a seamless experience to discover movies, book tickets, and manage their bookings while offering administrators powerful tools to manage shows, bookings, and movie listings.
+**Cinevo** is a modern, full-stack movie ticket booking application built with the MERN stack. It provides users with a seamless experience to discover movies, book tickets, and manage their bookings while offering administrators powerful tools to manage shows, bookings, and movie listings.
 
 ### Key Highlights
 
