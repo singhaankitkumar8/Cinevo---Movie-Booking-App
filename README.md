@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cinevo 🎬🍿🎥
+# CineX 🎬🍿🎥
 
 *Seamless Video Discovery. Effortless Entertainment Experience*
 
